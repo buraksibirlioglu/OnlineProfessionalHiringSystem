@@ -1,0 +1,2 @@
+# OnlineProfessionalHiringSystem
+In this project, you will design an online system for finding professionals. There are normal users and professionals. Professionals should be able to indicate what type of service they are providing, their background, etc. Users should be able to define what they need, and the system will notify relevant and available professionals who will be able to submit a proposal to that user. Then, user can select any of them by comparing proposals. Moreover, users may rate and add a review to the selected professional after the work is done.
